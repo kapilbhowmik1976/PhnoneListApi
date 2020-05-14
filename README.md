@@ -6,7 +6,9 @@ Install and Run the project
 1. Download the project from Github
 2. Import the project as maven project in your favourite tool
 3. Run as Java Application to start the aapplication from client tool
+
 or
+
 4. Build the project as maven build(goal: clean install)  which will generate "phone-application-0.0.1-SNAPSHOT.jar"
  run the Springbot as Jar file : java -jar phone-application-0.0.1-SNAPSHOT.jar
  
