@@ -10,10 +10,11 @@ Install and Run the project
 or
 
 4. Build the project as maven build(goal: clean install)  which will generate "phone-application-0.0.1-SNAPSHOT.jar"
- run the Springbot as Jar file : java -jar phone-application-0.0.1-SNAPSHOT.jar
+5. Run the Springbot as Jar file :
+java -jar phone-application-0.0.1-SNAPSHOT.jar
  
-5. Run Junit test by executing the project as Junit test from favourite tool(Junit test class : PhoneApplicationTests.Java)
-6. Rest service endpoint:
+6. Run Junit test by executing the project as Junit test from favourite tool(Junit test class : PhoneApplicationTests.Java)
+7. Rest service endpoint:
 http://localhost:8080/phone/getPhoneList/2039999988
 
 Output(sample json):
